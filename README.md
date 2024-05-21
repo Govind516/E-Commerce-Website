@@ -1,7 +1,10 @@
 ## Tech Stacks ging to be used:
 Frontend: React, MUI, Tailwind CSS
+
 Backend: Java, SpringBoot
+
 Database: PostgreSQL
+
 Other Features: Authentication, Payment Gateway
 
 
