@@ -1,4 +1,4 @@
-## Tech Stacks ging to be used:
+## Tech Stacks going to be used:
 Frontend: React, MUI, Tailwind CSS
 
 Backend: Java, SpringBoot
